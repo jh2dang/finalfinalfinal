@@ -1,0 +1,114 @@
+[
+	{
+		"model": "movies.cinemanow",
+		"pk": 1,
+		"fields": {
+			"title": "인어공주",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230524_42%2F1684890755488fBHJh_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "뮤지컬",
+			"score": "7.45",
+			"runtime": "135분",
+			"date": "2023.05.24.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%9D%B8%EC%96%B4%EA%B3%B5%EC%A3%BC",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%9D%B8%EC%96%B4%EA%B3%B5%EC%A3%BC+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 2,
+		"fields": {
+			"title": "분노의 질주: 라이드 오어 다이",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230503_262%2F1683080729234M8bHL_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "액션",
+			"score": "8.05",
+			"runtime": "141분",
+			"date": "2023.05.17.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EB%B6%84%EB%85%B8%EC%9D%98%20%EC%A7%88%EC%A3%BC%3A%20%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EC%98%A4%EC%96%B4%20%EB%8B%A4%EC%9D%B4",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EB%B6%84%EB%85%B8%EC%9D%98%20%EC%A7%88%EC%A3%BC%3A%20%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EC%98%A4%EC%96%B4%20%EB%8B%A4%EC%9D%B4+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 3,
+		"fields": {
+			"title": "가디언즈 오브 갤럭시: Volume 3",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230503_20%2F1683109578216k8TUH_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "액션",
+			"score": "9.41",
+			"runtime": "150분",
+			"date": "2023.05.03.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EA%B0%80%EB%94%94%EC%96%B8%EC%A6%88%20%EC%98%A4%EB%B8%8C%20%EA%B0%A4%EB%9F%AD%EC%8B%9C%3A%20Volume%203",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EA%B0%80%EB%94%94%EC%96%B8%EC%A6%88%20%EC%98%A4%EB%B8%8C%20%EA%B0%A4%EB%9F%AD%EC%8B%9C%3A%20Volume%203+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 4,
+		"fields": {
+			"title": "슈퍼 마리오 브라더스",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230309_3%2F1678329123596Kpcdb_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "애니메이션",
+			"score": "8.42",
+			"runtime": "92분",
+			"date": "2023.04.26.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4%20%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%88%ED%8D%BC%20%EB%A7%88%EB%A6%AC%EC%98%A4%20%EB%B8%8C%EB%9D%BC%EB%8D%94%EC%8A%A4+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 5,
+		"fields": {
+			"title": "아기공룡 둘리 : 얼음별 대모험 리마스터링",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230510_159%2F1683700719409fFKTr_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "애니메이션",
+			"score": "9.53",
+			"runtime": "84분",
+			"date": "2023.05.24.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%95%84%EA%B8%B0%EA%B3%B5%EB%A3%A1%20%EB%91%98%EB%A6%AC%20%3A%20%EC%96%BC%EC%9D%8C%EB%B3%84%20%EB%8C%80%EB%AA%A8%ED%97%98%20%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0%EB%A7%81",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%95%84%EA%B8%B0%EA%B3%B5%EB%A3%A1%20%EB%91%98%EB%A6%AC%20%3A%20%EC%96%BC%EC%9D%8C%EB%B3%84%20%EB%8C%80%EB%AA%A8%ED%97%98%20%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0%EB%A7%81+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 6,
+		"fields": {
+			"title": "극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230504_28%2F1683188611078EmvS2_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "애니메이션",
+			"score": "8.53",
+			"runtime": "100분",
+			"date": "2023.05.04.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%A7%B1%EA%B5%AC%EB%8A%94%20%EB%AA%BB%EB%A7%90%EB%A0%A4%3A%20%EB%8F%99%EB%AC%BC%EC%86%8C%ED%99%98%20%EB%8B%8C%EC%9E%90%20%EB%B0%B0%EA%BC%BD%EC%88%98%EB%B9%84%EB%8C%80",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%A7%B1%EA%B5%AC%EB%8A%94%20%EB%AA%BB%EB%A7%90%EB%A0%A4%3A%20%EB%8F%99%EB%AC%BC%EC%86%8C%ED%99%98%20%EB%8B%8C%EC%9E%90%20%EB%B0%B0%EA%BC%BD%EC%88%98%EB%B9%84%EB%8C%80+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 7,
+		"fields": {
+			"title": "스즈메의 문단속",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230206_264%2F1675649061557DaJHD_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "애니메이션",
+			"score": "8.10",
+			"runtime": "122분",
+			"date": "2023.03.08.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%A4%EC%A6%88%EB%A9%94%EC%9D%98%20%EB%AC%B8%EB%8B%A8%EC%86%8D",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%A4%EC%A6%88%EB%A9%94%EC%9D%98%20%EB%AC%B8%EB%8B%A8%EC%86%8D+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	},
+	{
+		"model": "movies.cinemanow",
+		"pk": 8,
+		"fields": {
+			"title": "슬픔의 삼각형",
+			"poster_url": "https://search.pstatic.net/common?type=o&size=174x246&quality=100&direct=true&src=https%3A%2F%2Fs.pstatic.net%2Fmovie.phinf%2F20230518_94%2F1684389723408gJwFX_JPEG%2Fmovie_image.jpg%3Ftype%3Dw640_2",
+			"genre": "코미디",
+			"score": "7.85",
+			"runtime": "147분",
+			"date": "2023.05.17.",
+			"info_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%AC%ED%94%94%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95",
+			"reserve_url": "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%EC%98%81%ED%99%94+%EC%8A%AC%ED%94%94%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95+%EC%83%81%EC%98%81%EC%9D%BC%EC%A0%95"
+		}
+	}
+]
